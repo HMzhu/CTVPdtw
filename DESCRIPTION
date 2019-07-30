@@ -1,0 +1,11 @@
+Package: CTVPdtw
+Type: Package
+Title: Scalable calibration transfer without standards via dynamic time warping for near-infrared spectroscopy
+Version: 3.6.1
+Date: 2019-07-31
+Depends: R (>= 3.0.0), chemometrics, R.matlab, rpart, graphics, Matrix, VPdtw, matlab
+Author: ZHuiMin,Zhimin Zhang
+Maintainer: ZHuiMin<ZHuiMin@csu.cn>
+Description: Scalable calibration transfer without standards via dynamic time warping for near-infrared spectroscopy
+License: LGPL version 2 or newer
+LazyData: TRUE
